@@ -2,7 +2,7 @@ Project in Tableau
 
 Analysis of Alcohol Consumption in Russia
 
-Here is a link of Public Tableau Project:
+Here are the links of Public Tableau Project:
 
 https://public.tableau.com/profile/rusan#!/vizhome/AlcoholConsumptionAnalysis_15917062745550/Assignment?publish=yes
 https://public.tableau.com/profile/rusan#!/vizhome/BiztoryBonus/Story1
